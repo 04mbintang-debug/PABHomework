@@ -1,7 +1,6 @@
 package com.example.Hw02.task2
 
 fun main() {
-    // Part A
     val testDays = listOf(-1, 0, 2)
     for (daysRemaining in testDays) {
         println("// daysRemaining = $daysRemaining")
@@ -14,7 +13,6 @@ fun main() {
         }
     }
 
-    // Part B
     val testMonths = listOf(9, 13)
     for (month in testMonths) {
         println("// month = $month")
