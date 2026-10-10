@@ -26,3 +26,5 @@ rootProject.name = "PABHomework"
 include(":app")
 include(":hw2")
 include(":hw3")
+include(":hw4")
+include(":hw5")
